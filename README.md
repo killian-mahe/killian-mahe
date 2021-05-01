@@ -11,14 +11,32 @@
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></p>
+![azure](https://img.icons8.com/color/48/000000/azure-1.png)
+![bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![c](https://img.icons8.com/color/48/000000/c-programming.png)
+![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![c#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![css3](https://img.icons8.com/color/48/000000/css3.png)
+![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![vuejs](https://img.icons8.com/color/48/000000/vue-js.png)
+![js](https://img.icons8.com/color/48/000000/javascript.png)
+![jquery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
+![php](https://img.icons8.com/dusk/64/000000/php-logo.png)
+![laravel](https://img.icons8.com/fluent/48/000000/laravel.png)
+![figma](https://img.icons8.com/color/32/000000/figma.png)
+![mysql](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![docker](https://img.icons8.com/color/64/000000/docker.png)
+![python](https://img.icons8.com/color/48/000000/python.png)
+![nodejs](https://img.icons8.com/color/48/000000/nodejs.png)
+![qt](https://img.icons8.com/ios/50/000000/qt.png)
+![react](https://img.icons8.com/color/48/000000/react-native.png)
+![sass](https://img.icons8.com/color/48/000000/sass-avatar.png)
+<img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwind" width="40" height="40"/>
+![typescript](https://img.icons8.com/color/48/000000/typescript.png)
+![xamarin](https://img.icons8.com/color/48/000000/xamarin.png)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killian-mahe&layout=compact" alt="killian-mahe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killian-mahe&show_icons=true" alt="killian-mahe" /></p>
 
-<p align="center">
-<a href="https://codepen.io/phenoxar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="phenoxar" height="30" width="30" style="margin-bottom:20px;"/></a>
-<a href="https://linkedin.com/in/killian-mahé-246928135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="killian-mahé-246928135" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11897235" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11897235" height="30" width="30" /></a>
-</p>
