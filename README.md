@@ -11,28 +11,40 @@
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
-![azure](https://img.icons8.com/color/48/000000/azure-1.png)
+## Front
+
 ![bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![c](https://img.icons8.com/color/48/000000/c-programming.png)
-![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![c#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 ![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![vuejs](https://img.icons8.com/color/48/000000/vue-js.png)
 ![js](https://img.icons8.com/color/48/000000/javascript.png)
 ![jquery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
-![php](https://img.icons8.com/dusk/64/000000/php-logo.png)
-![laravel](https://img.icons8.com/fluent/48/000000/laravel.png)
 ![figma](https://img.icons8.com/color/32/000000/figma.png)
-![mysql](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![docker](https://img.icons8.com/color/64/000000/docker.png)
-![python](https://img.icons8.com/color/48/000000/python.png)
-![nodejs](https://img.icons8.com/color/48/000000/nodejs.png)
 ![qt](https://img.icons8.com/ios/50/000000/qt.png)
 ![react](https://img.icons8.com/color/48/000000/react-native.png)
 ![sass](https://img.icons8.com/color/48/000000/sass-avatar.png)
 <img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwind" width="40" height="40"/>
 ![typescript](https://img.icons8.com/color/48/000000/typescript.png)
+
+## Back
+
+![c](https://img.icons8.com/color/48/000000/c-programming.png)
+![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![c#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![php](https://img.icons8.com/dusk/64/000000/php-logo.png)
+![laravel](https://img.icons8.com/fluent/48/000000/laravel.png)
+![mysql](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![python](https://img.icons8.com/color/48/000000/python.png)
+![nodejs](https://img.icons8.com/color/48/000000/nodejs.png)
+
+## Cloud
+
+![azure](https://img.icons8.com/color/48/000000/azure-1.png)
+![docker](https://img.icons8.com/color/64/000000/docker.png)
+
+
+
+
 ![xamarin](https://img.icons8.com/color/48/000000/xamarin.png)
 
 
