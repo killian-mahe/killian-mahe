@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killian-mahe&show_icons=true" alt="killian-mahe" /></p>
 
 <p align="center">
-<a href="https://codepen.io/phenoxar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="phenoxar" height="30" width="30" style="margin-bottom:5px;"/></a>
+<a href="https://codepen.io/phenoxar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="phenoxar" height="30" width="30" style="margin-bottom:20px;"/></a>
 <a href="https://linkedin.com/in/killian-mahé-246928135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="killian-mahé-246928135" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11897235" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11897235" height="30" width="30" /></a>
 </p>
