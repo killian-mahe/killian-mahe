@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killian-mahe" alt="killian-mahe" /> </p>
 
-- 🔭 I’m currently working on [Share Your Project](https://github.com/killian-mahe/shareyourproject)
+- 🔭 I’m currently working on [Share Your Project](https://github.com/shareYourProject)
 
 - 👨‍💻 All of my projects are available at [https://github.com/killian-mahe](https://github.com/killian-mahe)
 
-- 💬 Ask me about **Laravel, PHP, Python, C, C++, C#**
+- 💬 Ask me about **Laravel, PHP, Vue JS, Python, C, C++, C#**
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
