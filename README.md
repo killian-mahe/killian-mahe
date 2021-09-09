@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killian-mahe" alt="killian-mahe" /> </p>
 
-- 🔭 I’m currently working on [Share Your Project](https://github.com/shareYourProject) with [Paul Walczak](https://github.com/Polo-Wolo)
+- 🔭 I’m currently maintaining [Lumic](https://github.com/lumic) and working [Share Your Project](https://github.com/shareYourProject) with [Paul Walczak](https://github.com/Polo-Wolo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/killian-mahe](https://github.com/killian-mahe)
 
@@ -24,7 +24,7 @@
 ![figma](https://img.icons8.com/color/32/000000/figma.png)
 ![react](https://img.icons8.com/color/48/000000/react-native.png)
 ![sass](https://img.icons8.com/color/48/000000/sass-avatar.png)
-<img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwind" width="40" height="40"/>
 ![typescript](https://img.icons8.com/color/48/000000/typescript.png)
 
 ### Back
@@ -50,7 +50,6 @@
 
 # My stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killian-mahe&layout=compact" alt="killian-mahe" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=killian-mahe&show_icons=true" alt="killian-mahe" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killian-mahe&layout=compact" alt="killian-mahe" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=killian-mahe&show_icons=true" alt="killian-mahe" /></p>
 
