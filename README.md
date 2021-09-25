@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
-<h3 align="center">Web</h3>
-
-<h2 align="center">Front</h2>
+<h2 align="center">Web Front</h2>
 
 <table align="center">
   <tbody>
@@ -39,39 +37,112 @@
         <a href=""><img src="https://img.icons8.com/color/48/000000/javascript.png" width="auto" height="40"/></a>
       </td>
     </tr>
+    <tr>
+      <td width="14%" align="center">
+        Figma <br/>
+        <a href=""><img src="https://img.icons8.com/color/32/000000/figma.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        JQuery <br/>
+        <a href=""><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        React <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/react-native.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        SaSS <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/sass-avatar.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        TailwindCSS <br/>
+        <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="auto" height="40"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 align="center">Web Back</h2>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="14%" align="center">
+        TypeScript <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/typescript.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        PHP <br/>
+        <a href=""><img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        Laravel <br/>
+        <a href=""><img src="https://img.icons8.com/fluent/48/000000/laravel.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        MySQL <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        Python <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/python.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        NodeJS <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="auto" height="40"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 align="center">Application</h2>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="15%" align="center">
+        QT <br/>
+        <a href=""><img src="https://img.icons8.com/ios/50/000000/qt.png" width="auto" height="40"/></a>
+      </td>
+      <td width="15%" align="center">
+        C <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="auto" height="40"/></a>
+      </td>
+      <td width="15%" align="center">
+        C++ <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="auto" height="40"/></a>
+      </td>
+      <td width="15%" align="center">
+        C# <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="auto" height="40"/></a>
+      </td>
+      <td width="15%" align="center">
+        Xamarin <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/xamarin.png" width="auto" height="40"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 align="center">Cloud</h2>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="30%" align="center">
+        Azure <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/azure-1.png" width="auto" height="40"/></a>
+      </td>
+      <td width="30%" align="center">
+        Docker <br/>
+        <a href=""><img src="https://img.icons8.com/color/64/000000/docker.png" width="auto" height="40"/></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 
-<!-- ![jquery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
-![figma](https://img.icons8.com/color/32/000000/figma.png)
-![react](https://img.icons8.com/color/48/000000/react-native.png)
-![sass](https://img.icons8.com/color/48/000000/sass-avatar.png)
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwind" width="40" height="40"/>
-![typescript](https://img.icons8.com/color/48/000000/typescript.png)
-
-### Back
-
-![php](https://img.icons8.com/dusk/64/000000/php-logo.png)
-![laravel](https://img.icons8.com/fluent/48/000000/laravel.png)
-![mysql](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![python](https://img.icons8.com/color/48/000000/python.png)
-![nodejs](https://img.icons8.com/color/48/000000/nodejs.png)
-
-## Application
-
-![qt](https://img.icons8.com/ios/50/000000/qt.png)
-![c](https://img.icons8.com/color/48/000000/c-programming.png)
-![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![c#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-![xamarin](https://img.icons8.com/color/48/000000/xamarin.png)
-
-## Cloud
-
-![azure](https://img.icons8.com/color/48/000000/azure-1.png)
-![docker](https://img.icons8.com/color/64/000000/docker.png) -->
-
-# My stats
+<h2 align="center">My stats</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killian-mahe&layout=compact" alt="killian-mahe" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=killian-mahe&show_icons=true" alt="killian-mahe" /></p>
