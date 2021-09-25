@@ -11,16 +11,39 @@
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
-## Web
+<h3 align="center">Web</h3>
 
-### Front
+<h2 align="center">Front</h2>
 
-![bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![css3](https://img.icons8.com/color/48/000000/css3.png)
-![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![vuejs](https://img.icons8.com/color/48/000000/vue-js.png)
-![js](https://img.icons8.com/color/48/000000/javascript.png)
-![jquery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="14%" align="center">
+        Bootstrap <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        CSS <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/css3.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        HTML <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        VueJS <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/vue-js.png" width="auto" height="40"/></a>
+      </td>
+      <td width="14%" align="center">
+        JS <br/>
+        <a href=""><img src="https://img.icons8.com/color/48/000000/javascript.png" width="auto" height="40"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- ![jquery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
 ![figma](https://img.icons8.com/color/32/000000/figma.png)
 ![react](https://img.icons8.com/color/48/000000/react-native.png)
 ![sass](https://img.icons8.com/color/48/000000/sass-avatar.png)
@@ -46,7 +69,7 @@
 ## Cloud
 
 ![azure](https://img.icons8.com/color/48/000000/azure-1.png)
-![docker](https://img.icons8.com/color/64/000000/docker.png)
+![docker](https://img.icons8.com/color/64/000000/docker.png) -->
 
 # My stats
 
