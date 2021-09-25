@@ -59,7 +59,6 @@
         <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="auto" height="40"/></a>
       </td>
     </tr>
-    
     <tr>
       <td width="14%" align="center">
         TypeScript <br/>
@@ -80,10 +79,6 @@
       <td width="14%" align="center">
         Python <br/>
         <a href=""><img src="https://img.icons8.com/color/48/000000/python.png" width="auto" height="40"/></a>
-      </td>
-      <td width="14%" align="center">
-        NodeJS <br/>
-        <a href=""><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="auto" height="40"/></a>
       </td>
     </tr>
   </tbody>
@@ -140,4 +135,3 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killian-mahe&layout=compact" alt="killian-mahe" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=killian-mahe&show_icons=true" alt="killian-mahe" /></p>
-
