@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
-<h2 align="center">Web Front</h2>
+<h2 align="center">Web</h2>
 
 <table align="center">
   <tbody>
@@ -59,13 +59,7 @@
         <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="auto" height="40"/></a>
       </td>
     </tr>
-  </tbody>
-</table>
-
-<h2 align="center">Web Back</h2>
-
-<table align="center">
-  <tbody>
+    
     <tr>
       <td width="14%" align="center">
         TypeScript <br/>
