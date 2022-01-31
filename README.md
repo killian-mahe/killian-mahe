@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/killian-mahe](https://github.com/killian-mahe)
 
-- 💬 Ask me about **Laravel, PHP, Vue JS, Python, C, C++, C#**
+- 💬 Ask me about **Python, Laravel, PHP, Vue JS, AI & ML development, C, C++, C#**
+
+- 💼 See my portfolio at [https://killianmahe.shareyourproject.fr](https://killianmahe.fr)
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
@@ -56,7 +58,7 @@
       </td>
       <td width="14%" align="center">
         TailwindCSS <br/>
-        <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="auto" height="40"/></a>
+        <a href=""><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="auto" height="40"/></a>
       </td>
     </tr>
     <tr>
