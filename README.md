@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killian-mahe" alt="killian-mahe" /> </p>
 
-- 🔭 I’m currently maintaining [Lumic](https://github.com/killian-mahe/lumic) and working [Share Your Project](https://github.com/shareYourProject) with [Paul Walczak](https://github.com/Polo-Wolo)
+- 🔭 I’m currently maintaining [Lumic](https://github.com/killian-mahe/lumic) and working on [Share Your Project](https://github.com/shareYourProject) with [Paul Walczak](https://github.com/Polo-Wolo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/killian-mahe](https://github.com/killian-mahe)
 
