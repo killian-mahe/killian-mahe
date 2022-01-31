@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Laravel, PHP, Vue JS, AI & ML development, C, C++, C#**
 
-- 💼 See my portfolio at [https://killianmahe.shareyourproject.fr](https://killianmahe.fr)
+- 💼 See my portfolio at [https://killianmahe.fr](https://killianmahe.shareyourproject.fr)
 
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
