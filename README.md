@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Killian</h1>
-<h3 align="center">A passionate engineering student</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killian-mahe" alt="killian-mahe" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/killian-mahe](https://github.com/killian-mahe)
 
-- 💬 Ask me about **AI, Machine Learning, DevOps, Python, Laravel, PHP, Vue JS, AI & ML development, C, C++, C#**
+- 💬 Ask me about **AI, Machine Learning, MLOps, Python, Laravel, PHP, Vue JS, AI & ML development, C, C++, C#**
 
 - 💼 See my portfolio at [https://killianmahe.fr](https://killianmahe.fr)
 
