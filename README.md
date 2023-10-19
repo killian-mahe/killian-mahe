@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **AI, Machine Learning, MLOps, Python, Laravel, PHP, Vue JS, AI & ML development, C, C++, C#**
 
-- 💼 See my portfolio at [https://killianmahe.fr](https://killianmahe.fr)
-
 - 📫 How to reach me **killianmahe.pro@gmail.com**
 
 <h2 align="center">Web</h2>
